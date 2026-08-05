@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "RALI-VAD: Reliability-Aware Weakly Supervised Video Anomaly Detection with Training-Only Multimodal Semantic Supervision"
+type: software
+authors:
+  - family-names: Li
+    given-names: Hanwei
+  - family-names: Xu
+    given-names: Ke
+  - family-names: Jiang
+    given-names: Xinghao
+repository-code: "https://github.com/Hanwey2333/RALI-VAD"
+license: MIT
