@@ -5,9 +5,19 @@ type: software
 authors:
   - family-names: Li
     given-names: Hanwei
+    email: "hanweylee@sjtu.edu.cn"
+    affiliation: "Shanghai Jiao Tong University"
   - family-names: Xu
     given-names: Ke
+    email: "l13025816@sjtu.edu.cn"
+    affiliation: "Shanghai Jiao Tong University"
   - family-names: Jiang
     given-names: Xinghao
+    email: "xhjiang@sjtu.edu.cn"
+    affiliation: "Shanghai Jiao Tong University"
+  - family-names: Sun
+    given-names: Tanfeng
+    email: "tfsun@sjtu.edu.cn"
+    affiliation: "Shanghai Jiao Tong University"
 repository-code: "https://github.com/Hanwey2333/RALI-VAD"
 license: MIT
