@@ -13,3 +13,7 @@ The loaders consume JSON manifests that point to locally stored feature arrays.
 Keep local absolute paths, credentials, and generated semantic archives outside
 version control. The recommended ignored locations are `data/`, `features/`,
 `outputs/`, `runs/`, and `checkpoints/`.
+
+Derived semantic archives and pseudo-label records will be released later in
+this repository. Their release will follow the original dataset terms and will
+not redistribute source videos or extracted third-party features.
