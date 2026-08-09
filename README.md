@@ -120,7 +120,7 @@ See [DATA.md](DATA.md) for dataset handling. Code is released under the
 
 Please cite the accompanying manuscript:
 
-> Hanwei Li, Ke Xu, Xinghao Jiang, and Tanfeng Sun. RALI-VAD: Reliability-Aware Weakly
+> Hanwei Li, Ke Xu, Tanfeng Sun, and Xinghao Jiang. RALI-VAD: Reliability-Aware Weakly
 > Supervised Video Anomaly Detection with Training-Only Multimodal Semantic
 > Supervision. Pattern Recognition, manuscript submitted.
 
